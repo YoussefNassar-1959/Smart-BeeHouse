@@ -1,7 +1,3 @@
-Here's a formal `README.md` file for your GitHub repository:
-
----
-
 # IoT-Based Smart Beehouse Network
 
 This repository contains the code for an IoT-based smart beehouse network built on the ESP32 platform. The system allows for monitoring various metrics within a beehive and communicates these metrics over a custom ESP32-based access point. The beehouses form a star network mesh, allowing multiple beehouses to connect and transmit data to a central hub.
